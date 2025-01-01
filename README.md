@@ -1,5 +1,5 @@
 # Elastiq.AI-QA-Selenium-Automation-Assessment-By-Shivendu
-2. README
+README
 Approach:
  * Setup:
    * Install necessary libraries: pip install pytest selenium
