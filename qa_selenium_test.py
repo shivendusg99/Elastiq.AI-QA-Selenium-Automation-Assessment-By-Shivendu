@@ -12,7 +12,7 @@ def driver():
 
 def test_search_functionality(driver):
     # Navigate to the Selenium Playground Table Search Demo
-    driver.get("https://www.seleniumeasy.com/test/table-search-filter-demo.html")
+    driver.get("https://www.lambdatest.com/selenium-playground/table-sort-search-demo.html")
 
     # Locate and interact with the search box
     search_box = WebDriverWait(driver, 10).until(
